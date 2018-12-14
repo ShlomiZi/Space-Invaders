@@ -3,6 +3,6 @@ The game is based on the OOP principles learned throghout "Introduction to OOP" 
 Supports a "HighScrores" file, and levels with increasing difficulty.
 
 Running the game:
-make compile
-make jar
+make compile, 
+make jar, 
 java -jar space-invaders.jar
