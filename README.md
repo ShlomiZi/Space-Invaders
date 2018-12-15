@@ -10,7 +10,7 @@ java -jar space-invaders.jar
 
 
 
-Screens:
+
 ![alt text](https://github.com/ShlomiZi/Space-Invaders/blob/master/Screenshots/1.png)
 
 
