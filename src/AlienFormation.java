@@ -4,8 +4,6 @@ import java.awt.Image;
 
 /**
  * This class represents a formation of aliens.
- *
- * @author Shlomi Zidmi
  */
 public class AlienFormation {
     //class members
