@@ -5,8 +5,6 @@ import java.util.List;
 /**
  * This class represents a collection of Sprite
  * objects.
- *
- * @author Shlomi Zidmi
  */
 public class SpriteCollection {
 
