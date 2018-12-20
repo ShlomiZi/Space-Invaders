@@ -5,8 +5,6 @@ import java.util.List;
 /**
 * This class holds a collection of all Collidables
 * objects in the game.
-*
-* @author Shlomi Zidmi
 */
 public class GameEnvironment {
 
