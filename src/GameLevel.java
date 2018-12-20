@@ -10,8 +10,6 @@ import biuoop.KeyboardSensor;
  * This class is responsible for the whole game,
  * from creating objects and to running the game
  * animation loop.
- *
- * @author Shlomi Zidmi
  */
 public class GameLevel implements Animation {
 
