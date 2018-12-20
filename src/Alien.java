@@ -6,8 +6,6 @@ import java.awt.Image;
 /**
  * This class extends the Block class, for
  * the new SpaceInvaders game enemies.
- *
- * @author Shlomi Zidmi
  */
 public class Alien extends Block {
 
