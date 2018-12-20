@@ -9,8 +9,6 @@ import java.util.ArrayList;
 * The paddle is the game object controlled
 * by the player.
 * The paddle is also a Sprite and Collidable
-*
-* @author Shlomi Zidmi
 */
 public class Paddle implements Sprite, Collidable, HitNotifier {
 
